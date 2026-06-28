@@ -1,6 +1,6 @@
 file_format: "1"
-id: nthleft
-name: nthLeft
+id: nthright
+name: nthRight
 type: shield
 requires: [pro_micro]
 features:
