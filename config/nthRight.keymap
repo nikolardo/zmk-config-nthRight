@@ -24,7 +24,7 @@
                                 >;
                         };
                         
-                default_layer {
+                arrow_layer {
 
                         bindings = <
    &none           &none        &kp UP       &none        &none        &none        &kp DEL
