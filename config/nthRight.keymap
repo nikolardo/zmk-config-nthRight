@@ -19,7 +19,7 @@
                         bindings = <
    &kp F           &kp G        &kp C        &kp R        &kp L        &kp SLASH    &kp BSPC
    &kp D           &kp H        &kp T        &kp N        &kp S        &kp MINUS    &kp RET
-   &kp B           &kp M        &kp W        &kp V        &kp Z        &RSHFT       &kp EQUAL
+   &kp B           &kp M        &kp W        &kp V        &kp Z        &kp RSHFT    &kp EQUAL
    &lt 1 SPACE
                                 >;
                         };
