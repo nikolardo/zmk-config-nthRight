@@ -34,13 +34,14 @@
                                 >;
                         };
 
-                numbers_layer {
+                numpad_layer {
 
                         bindings = <
-   &kp ESC         &kp N1       &kp N2       &kp N3       &kp N4       &kp N5       &kp BSPC
-   &kp LSHFT       &kp N6       &kp N7       &kp N8       &kp N9       &kp N0       &kp RET
-   &kp LCTRL       &kp MINUS    &kp SLASH    &kp EQUAL    &kp LKBT     &kp RBKT     &kp TAB
+   &kp ESC         &kp STAR     &kp KP_N7    &kp KP_N8    &kp KP_N9    &kp KP_MINUS &kp BSPC
+   &kp LSHFT       &kp KP_SLASH &kp KP_N4    &kp KP_N5    &kp KP_N6    &kp KP_PLUS  &kp RET
+   &kp KP_NUM      &kp KP_N0    &kp KP_N1    &kp KP_N2    &kp KP_N3    &kp KP_DOT   &kp TAB
                                              &kp LALT     &kp LMETA    &kp SPACE    &to 0
+
                                 >;
                         };
         };
